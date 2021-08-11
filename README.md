@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Danilo
+- 👀 I’m interested in Back-end and Front-end development! Full-stack!
+- 🌱 I’m currently learning Rust and C++ to develop cool things with WebAssembly
+- 💞️ I’m looking to collaborate on OpenSource projects
+- 📫 How to reach me
+  - Twitter: [@daniloraisi](https://twitter.com/daniloraisi)
+  - Facebook: [daniloraisi](https://www.facebook.com/daniloraisi)
+  - LinkedIn: [@daniloraisi](https://www.linkedin.com/in/daniloraisi)
+  - E-mail: danilo@raisi.tech
