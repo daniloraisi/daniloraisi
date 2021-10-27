@@ -1,6 +1,6 @@
 ### PT-BR
 
-Desenvolvedor, arquiteto, aviador. Apaixonado por tecnologia, programação é carreira e hobby. Node.js, React, Typescript, C#, Rust, Go...aqui toda linguagem ou framework tem seu espaço e utilização. Dev Backend, Dev Frontend, Dev Fullstack!
+Desenvolvedor, arquiteto de software, aviador. Apaixonado por tecnologia, programação é carreira e hobby. Node.js, React, Typescript, C#, Rust, Go...aqui toda linguagem ou framework tem seu espaço e utilização. Dev Backend, Dev Frontend, Dev Fullstack!
 
 Quer entrar em contato!?
   - Twitter: [@daniloraisi](https://twitter.com/daniloraisi)
