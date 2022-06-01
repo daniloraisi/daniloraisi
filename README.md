@@ -3,7 +3,7 @@
 Desenvolvedor, arquiteto de software, aviador. Apaixonado por tecnologia, programação é carreira e hobby. Node.js, React, Typescript, C#, Rust, Go...aqui toda linguagem ou framework tem seu espaço e utilização. Dev Backend, Dev Frontend, Dev Fullstack!
 
 Quer entrar em contato!?
-  - Twitter: [@daniloraisi](https://twitter.com/daniloraisi)
+  - Twitter: [@thew3vangelist](https://twitter.com/thew3vangelist)
   - Facebook: [daniloraisi](https://www.facebook.com/daniloraisi)
   - LinkedIn: [@daniloraisi](https://www.linkedin.com/in/daniloraisi)
 
@@ -13,7 +13,7 @@ Quer entrar em contato!?
 Developer, software architect, aviator. Passionate about technology, programming is a career and a hobby. Node.js, React, Typescript, C#, Rust, Go...all languages or frameworks have space and utility here. Backend Dev, Frontend Dev, Fullstack Dev!
 
 Want to reach me out!?
-  - On Twitter [@daniloraisi](https://twitter.com/daniloraisi)
+  - On Twitter [@thew3vangelist](https://twitter.com/thew3vangelist)
   - On Facebook [daniloraisi](https://www.facebook.com/daniloraisi)
   - On LinkedIn [@daniloraisi](https://www.linkedin.com/in/daniloraisi)
 
