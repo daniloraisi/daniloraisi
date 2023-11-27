@@ -11,9 +11,9 @@
 Desenvolvedor, arquiteto de software, aviador. Apaixonado por tecnologia. Aqui toda linguagem ou framework tem seu espaço e utilização. Dev Backend, Dev Frontend, Dev Fullstack!
 
 Quer entrar em contato!?
-  
-![Static Badge](https://img.shields.io/badge/Siga-%40raisi__exception-black?style=social&logo=x&link=https%3A%2F%2Fwww.twitter.com%2Fraisi_exception)
-![Static Badge](https://img.shields.io/badge/Conecte--se-%40daniloraisi-black?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniloraisi)
+
+<a href="https://www.twitter.com/raisi_exception" target="_blank" alt="@raisi_exception"><img src="https://img.shields.io/badge/Siga-%40raisi__exception-black?style=social&logo=x" /></a>
+<a href="https://www.linkedin.com/in/daniloraisi" target="_blank" alt="daniloraisi"><img src="https://img.shields.io/badge/Conecte--se-%40daniloraisi-black?style=social&logo=linkedin" /></a>
 
 ### EN-US
 
@@ -21,8 +21,8 @@ Developer, software architect, aviator. Passionate about technology. All languag
 
 Want to reach me out!?
 
-![Static Badge](https://img.shields.io/badge/Follow-%40raisi__exception-black?style=social&logo=x&link=https%3A%2F%2Fwww.twitter.com%2Fraisi_exception)
-![Static Badge](https://img.shields.io/badge/Connect-%40daniloraisi-black?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdaniloraisi%2F%3Flocale%3Den_US)
+<a href="https://www.twitter.com/raisi_exception" target="_blank" alt="@raisi_exception"><img src="https://img.shields.io/badge/Siga-%40raisi__exception-black?style=social&logo=x" /></a>
+<a href="https://www.linkedin.com/in/daniloraisi?locale=en_US" target="_blank" alt="daniloraisi"><img src="https://img.shields.io/badge/Conecte--se-%40daniloraisi-black?style=social&logo=linkedin" /></a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloraisi&layout=compact" />
